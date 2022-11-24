@@ -1,4 +1,4 @@
-## script.program.omgtv
+## plugin.script.omgtv
 
 # OMGTV
 
